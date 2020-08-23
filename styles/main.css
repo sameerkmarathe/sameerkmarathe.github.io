@@ -31,6 +31,14 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  */
 
+
+/* .fa-kaggle:before {
+    font-family: roboto;
+    color: #f0f3f5;
+    font-size: 5em;
+    content: "K";
+} */
+
 .bootstrap-switch {
     display: inline-block;
     direction: ltr;
@@ -7671,4 +7679,11 @@ a.credit {
 
 .section {
     padding-bottom: 0;
+}
+
+.fa-kaggle {
+    height: 10px;
+    font-size: x-large;
+    line-height: 2.1em;
+    font-weight: bolder;
 }
